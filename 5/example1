@@ -1,0 +1,43 @@
+s = 0;
+i = 0;
+x = 0;
+x = while(i < 10)
+    s = s + i;
+    i = i + 1;
+    451;
+end;
+print "sum = ";
+print s;
+print "
+";
+
+3;
+
+print "x = ";
+print x; 
+print "
+";
+
+print (3);
+print "
+";
+
+print (2-(3+4));
+print "
+";
+
+# 空文
+;
+
+print (n = 4);
+print "
+";
+
+print n;
+
+print (print "hoge");
+
+puts "\nsage#moge";  # komento2
+
+"mogemoge2";
+     # koment

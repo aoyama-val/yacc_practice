@@ -1,0 +1,4 @@
+x = 123;
+
+print "hoge1" unless (x == 1);
+print "hoge2" unless (x == 123);

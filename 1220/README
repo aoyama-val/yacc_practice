@@ -1,0 +1,5 @@
+-ly をリンクすると yyerror がなくてもいい
+
+#define YYSTYPE double
+すれば yylval の型を決められる。
+(%union を使わない場合)
